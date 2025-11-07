@@ -6,3 +6,7 @@ am I intruducing a new change to this branch.
 Check preview
 ## Protein info
 I will add here protein infor for this branch.
+Check preview 
+
+## Gene info
+here I will add gene info for my data. 
